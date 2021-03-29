@@ -184,7 +184,7 @@ public class GUITable extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnAniadirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAniadirActionPerformed
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_btnAniadirActionPerformed
 
     /**

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  * @author jorge
  */
 public class Articulo implements Producto {
-    
+    String nueva; //Nueva
     String nombre;
     String precio;
     String stock;

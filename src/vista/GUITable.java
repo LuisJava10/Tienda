@@ -88,7 +88,7 @@ public class GUITable extends javax.swing.JFrame {
 
         jButton1.setText("Eliminar");
 
-        btnAniadir.setText("Prueba");
+        btnAniadir.setText("Agregar");
         btnAniadir.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnAniadirActionPerformed(evt);

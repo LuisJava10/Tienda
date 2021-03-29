@@ -17,6 +17,7 @@ public class Articulo implements Producto {
     String nombre;
     String precio;
     String stock;
+    int precio1;// prueba
 
     
     public Articulo(){

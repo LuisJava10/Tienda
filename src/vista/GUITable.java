@@ -5,10 +5,6 @@
  */
 package vista;
 
-import mundo.Articulo;
-import controlador.Controlador;
-import mundo.Tecnico;
-
 
 /**
  *
@@ -17,22 +13,15 @@ import mundo.Tecnico;
 public class GUITable extends javax.swing.JFrame {
 
     //Modelo
-    private Articulo producto;
-    private Tecnico tecnico;
-    //Controlador
-    private Controlador controlador;
+  
     
     /**
      * Creates new form GUITable
      */
     public GUITable() {
         initComponents();
-        //Modelo
-        producto = new Articulo();
-        tecnico = new Tecnico();
-        //Controlador
-        controlador = new Controlador(this, producto, tecnico);
-        controlador.iniciar();
+        
+    
         
     
     }
